@@ -1,0 +1,6 @@
+metrics-simulator
+
+go.mod
+go.sum
+
+/vendor
